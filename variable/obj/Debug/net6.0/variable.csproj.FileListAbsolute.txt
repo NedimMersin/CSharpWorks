@@ -1,0 +1,15 @@
+C:\Users\FERİD\Documents\GitHub\Kodluyoruz.org_Bootcamp_preparation_using_CSharp\variable\bin\Debug\net6.0\variable.exe
+C:\Users\FERİD\Documents\GitHub\Kodluyoruz.org_Bootcamp_preparation_using_CSharp\variable\bin\Debug\net6.0\variable.deps.json
+C:\Users\FERİD\Documents\GitHub\Kodluyoruz.org_Bootcamp_preparation_using_CSharp\variable\bin\Debug\net6.0\variable.runtimeconfig.json
+C:\Users\FERİD\Documents\GitHub\Kodluyoruz.org_Bootcamp_preparation_using_CSharp\variable\bin\Debug\net6.0\variable.dll
+C:\Users\FERİD\Documents\GitHub\Kodluyoruz.org_Bootcamp_preparation_using_CSharp\variable\bin\Debug\net6.0\ref\variable.dll
+C:\Users\FERİD\Documents\GitHub\Kodluyoruz.org_Bootcamp_preparation_using_CSharp\variable\bin\Debug\net6.0\variable.pdb
+C:\Users\FERİD\Documents\GitHub\Kodluyoruz.org_Bootcamp_preparation_using_CSharp\variable\obj\Debug\net6.0\variable.csproj.AssemblyReference.cache
+C:\Users\FERİD\Documents\GitHub\Kodluyoruz.org_Bootcamp_preparation_using_CSharp\variable\obj\Debug\net6.0\variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FERİD\Documents\GitHub\Kodluyoruz.org_Bootcamp_preparation_using_CSharp\variable\obj\Debug\net6.0\variable.AssemblyInfoInputs.cache
+C:\Users\FERİD\Documents\GitHub\Kodluyoruz.org_Bootcamp_preparation_using_CSharp\variable\obj\Debug\net6.0\variable.AssemblyInfo.cs
+C:\Users\FERİD\Documents\GitHub\Kodluyoruz.org_Bootcamp_preparation_using_CSharp\variable\obj\Debug\net6.0\variable.csproj.CoreCompileInputs.cache
+C:\Users\FERİD\Documents\GitHub\Kodluyoruz.org_Bootcamp_preparation_using_CSharp\variable\obj\Debug\net6.0\variable.dll
+C:\Users\FERİD\Documents\GitHub\Kodluyoruz.org_Bootcamp_preparation_using_CSharp\variable\obj\Debug\net6.0\ref\variable.dll
+C:\Users\FERİD\Documents\GitHub\Kodluyoruz.org_Bootcamp_preparation_using_CSharp\variable\obj\Debug\net6.0\variable.pdb
+C:\Users\FERİD\Documents\GitHub\Kodluyoruz.org_Bootcamp_preparation_using_CSharp\variable\obj\Debug\net6.0\variable.genruntimeconfig.cache
